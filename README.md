@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Priyansh Gupta 
 - 👀 I’m interested in machine learning and deep learning!
 - 🌱 I’m currently learning deep learning algorithms!
-- 💞️ I’m looking to collaborate on web development and machine learning projects!
+- 💞️ I’m looking to collaborate on development and machine learning projects!
 - 📫 Reach me at priyansh.gupta2021@gmail.com
 
 <!---
