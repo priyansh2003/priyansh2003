@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyansh Gupta 
-- 👀 I’m interested in machine learning and blockchain development!
+- 👀 I’m interested in machine learning!
 - 🌱 I’m currently learning deep learning algorithms!
 - 💞️ I’m looking to collaborate on development and machine learning projects!
 - 📫 Reach me at priyansh.gupta2021@gmail.com
